@@ -57,9 +57,6 @@
   .about-item {
     margin-bottom: 30px;
   }
-  .accordion .header-title {
-    font-size: 12px;
-  }
   .schedule .schedule-tab-title .nav-tabs .nav-link {
     width: 150px;
   }
@@ -120,9 +117,6 @@
   }
   .about-item {
     margin-bottom: 30px;
-  }
-  .accordion .header-title {
-    font-size: 12px;
   }
   #pricing .price-block-wrapper .pricing-list {
     padding: 10px 60px 10px 45px;
@@ -200,9 +194,6 @@
   }
   .schedule .schedule-tab-title .nav-tabs .nav-link {
     width: 288px;
-  }
-  .accordion .header-title {
-    font-size: 11px;
   }
   #pricing .price-block-wrapper .pricing-list {
     padding: 10px 30px 10px 40px;
