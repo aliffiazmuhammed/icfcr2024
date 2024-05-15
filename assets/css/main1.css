@@ -1056,7 +1056,7 @@ a.back-to-top:focus {
   color: #777777;
   font-size: 13px;
   margin-bottom: 0px;
-  text-align: center;
+  text-align: center; 
 }
 
 .schedule .card-header h4 {
@@ -1615,4 +1615,19 @@ a.back-to-top:focus {
   margin-top: 30px;
   padding-top: 0px 10px 0px 10px;
   flex-direction: column;
+}
+
+.tech-t{
+  text-transform: none;
+  line-height: 2px;
+  font-size: 15px;
+  font-weight: 100;
+}
+
+.tech-t-h1{
+  line-height: normal;
+}
+
+.schedule .track-list{
+  justify-content: center;
 }
