@@ -880,9 +880,16 @@ a.back-to-top:focus {
 
 #event-slides .intro-title {
   color: #212121;
-  font-size: 22px;
+  font-size: 2px;
   font-weight: 700;
   letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+#about .intro-title{
+  color: #212121;
+  font-size: 20px;
+  font-weight: 700;
   margin-bottom: 15px;
 }
 
@@ -893,6 +900,11 @@ a.back-to-top:focus {
 
 #event-slides .list-specification li i {
   margin-right: 5px;
+}
+
+
+.list-specification li {
+  padding: 5px 0px;
 }
 
 .counter-section {
@@ -1630,4 +1642,11 @@ a.back-to-top:focus {
 
 .schedule .track-list{
   justify-content: center;
+}
+
+.ieee-xplore-link{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 15px;
 }
