@@ -902,6 +902,15 @@ a.back-to-top:focus {
   margin-right: 5px;
 }
 
+#event-slides .keynote-speaker {
+  width: 30%;
+}
+
+
+/* #event-slides .speaker{
+  display: flex;
+  flex-direction: row;
+} */
 
 .list-specification li {
   padding: 5px 0px;
@@ -1522,6 +1531,17 @@ a.back-to-top:focus {
 #pricing .price-block-wrapper .price h3 {
   font-size: 28px;
   color: #212121;
+}
+
+#pricing .price-block-wrapper .price h3 span {
+  font-size: 15px;
+  color: #5c5c5c;
+}
+
+.info-text h4{
+  padding-top: 10px;
+  font-size: 20px;
+  color: #5c5c5c;
 }
 
 #pricing .price-block-wrapper .price p {
