@@ -2770,7 +2770,7 @@
 /* Setting the Animation using Keyframes */
 @keyframes scroll-left {
   0% {
-      transform: translateX(200%);
+      transform: translateX(130%);
   }
 
   100% {
