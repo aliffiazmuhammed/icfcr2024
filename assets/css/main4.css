@@ -6,7 +6,7 @@ html {
 
 body {
   background: #fff;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 400;
   font-family: 'Lato', sans-serif;
   -webkit-box-sizing: border-box;
@@ -725,9 +725,9 @@ a.back-to-top:focus {
   color: #212121;
   border-bottom: 1px solid #f1f1f1;
   text-decoration: none;
-  display: inline-block;
+  /* display: inline-block; */
   clear: both;
-  position: relative;
+  /* position: relative; */
   outline: 0;
   transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1681,6 +1681,7 @@ a.back-to-top:focus {
 }
 
 .pdf-container{
+  font-size: 15px;
   margin-top: 100px;
 }
 
@@ -1700,4 +1701,10 @@ a.back-to-top:focus {
   .table-div td{
     padding: 12px 2px 12px 2px;
   }
+}
+
+
+.dropdown-css{
+  display: flex;
+  flex-direction: row;
 }
